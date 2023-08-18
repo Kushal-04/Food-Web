@@ -86,6 +86,7 @@ nav input{
     cursor: pointer;
 }
 .head{
+    justify-cintent:center;
     margin-left:200px;
 .crd{
     display: flex;
